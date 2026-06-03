@@ -1,16 +1,19 @@
 <div align="center">
 
 # Hammad Ali
-
 ### Front-End Developer
 
-*Building responsive, high-performance web experiences with React.js and modern JavaScript*
+*I build responsive, high-performance web experiences — from Figma concept to production.*
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tiyakufBcNd0NIRL7Gct7VczF53w8hRp/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-ali-259305240)
 [![Gmail](https://img.shields.io/badge/hammadali.cse123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hammadali.cse123@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+92_320_0141425-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923200141425)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hammadali072&style=flat-square&color=3D3FED&label=Profile+Views)
 
 </div>
 
@@ -18,9 +21,11 @@
 
 ## About
 
-Front-End Developer specializing in **React.js** and modern **JavaScript (ES6+)**. I build responsive, high-performance web applications with a strong focus on usability, scalability, and seamless cross-browser experience. Comfortable taking a project from Figma concept all the way to a deployed, production-ready product.
-- Currently **Front-End Developer** at TechTide Co.
-- Lahore, Pakistan
+Front-End Developer with 1.5+ years of hands-on experience building scalable, user-focused interfaces using **React.js**, **TypeScript**, and **Tailwind CSS**. I care deeply about clean code, component architecture, and bridging the gap between design and development.
+
+- Currently at **TechTide Co.** — building production-grade frontend systems
+- Currently doing a deep dive into **React** internals — hooks, custom hook patterns, advanced state management (Zustand / Context + useReducer), performance optimization and building real-world industry-standard projects.
+- Based in **Lahore, Pakistan** — open to remote opportunities
 
 ---
 
@@ -43,7 +48,7 @@ Front-End Developer specializing in **React.js** and modern **JavaScript (ES6+)*
 
 #### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTVMMTIgMnpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiLz48L3N2Zz4=&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
@@ -53,79 +58,40 @@ Front-End Developer specializing in **React.js** and modern **JavaScript (ES6+)*
 
 ## Experience
 
-### **Front-End Developer**
-`TechTide Co.` &nbsp;·&nbsp; `Dec 2025 – Present`
-
-- Designed and developed responsive, user-focused interfaces from concept to production
-- Translated design ideas into clean, maintainable code ensuring full consistency across the application
-- Collaborated with team members to refine UI/UX and improve overall product quality
-
-
-### Front-End Developer Intern
-`TechTide Co.` &nbsp;·&nbsp; `Sep 2025 – Dec 2025`
-
-- Developed and enhanced frontend features while integrating Firebase and Node.js for dynamic functionality
-- Collaborated in an onsite team environment, contributing to project development and acting on feedback
-
-
-### Front-End Developer Intern
-`TheCodev Ltd.` &nbsp;·&nbsp; `Mar 2025 – Aug 2025`
-
-- Built a project-based web application with reusable components to improve scalability and dev efficiency
-- Optimized UI performance and responsiveness for a smooth experience across all devices
-
-
-### Front-End Developer Intern
-`DevelopersHub Co.` &nbsp;·&nbsp; `Dec 2024 – Feb 2025`
-
-- Delivered a complete frontend project in React + Tailwind CSS within the internship timeline
-- Translated project requirements into functional UI components with clean, maintainable structure
+| Role | Company | Period |
+|------|---------|--------|
+| **Front-End Developer** | TechTide Co. | `Dec 2025 – Present` |
+| **Front-End Developer Intern** | TechTide Co. | `Sep 2025 – Dec 2025` |
+| **Front-End Developer Intern** | TheCodev Ltd. | `Mar 2025 – Aug 2025` |
+| **Front-End Developer Intern** | DevelopersHub Co. | `Dec 2024 – Feb 2025` |
 
 ---
 
-## Projects
+## Featured Projects
+
+> Pinned repositories below — here's the context behind them.
 
 ### RayNova Tech
-**Skills:** `React` &nbsp;`TypeScript` &nbsp;`Tailwind CSS` &nbsp;`Firebase`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-A modern agency website showcasing AI-powered services — chatbot solutions and intelligent web platforms.
+- Modern agency website showcasing AI-powered services. Built a full-stack CMS with admin dashboard — blogs, team profiles, and project estimations managed dynamically without any frontend code changes.
 
-- Implemented a full-stack CMS with an admin dashboard to manage blogs, team profiles, and project estimations dynamically
-- Built backend workflows for structured data storage and inquiry management — no frontend code changes required for content updates
-
-<br/>
 
 ### SereNiva
-**Skills:** `React` &nbsp;`JavaScript` &nbsp;`Tailwind CSS` &nbsp;`Firebase`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-A cloud-based spa and wellness management system for streamlining appointments, services, and business operations.
-
-- Implemented online appointment booking, role-based dashboards, and real-time data handling
-- Integrated service management, customer reviews, WhatsApp-based confirmations, and payment status tracking
-
+- Cloud-based spa & wellness management system — online booking, role-based dashboards, WhatsApp confirmations, and real-time payment tracking.
 
 ### myPSW Plus
-**Tool:** `Figma`
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-End-to-end UI/UX design for a digital healthcare platform connecting individuals with certified Personal Support Workers (PSWs).
-
-- Designed complete user flows for two roles — Care Recipients and Care Providers
-- Delivered 25+ screens including multi-step onboarding wizards, dashboards, appointment booking, messaging, and reports
-
----
-
-## Education
-
-### Bachelor's of Computer Science (BSCS)
-`Lahore Garrison University` &nbsp;·&nbsp; `Mar 2022 – Feb 2026`
-
-> Focused coursework in Web Development, Data Structures & Algorithms, Database Systems, and Software Engineering.
-
-
-### Intermediate of Computer Science (ICS)
-`Punjab Group of Colleges` &nbsp;·&nbsp; `Aug 2019 – May 2021`
-
-> Core studies in Mathematics, Physics, and Computer Science.
+- End-to-end UI/UX for a digital healthcare platform connecting Care Recipients with certified Personal Support Workers. Delivered 25+ screens covering onboarding, dashboards, booking, messaging, and reports.
 
 ---
 
