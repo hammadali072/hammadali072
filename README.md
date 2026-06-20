@@ -8,7 +8,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1lE-TjwshTvil0E2SvdpHcBZChG9NOq2U/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ZbiaF3oqcrgY4B084hZBQLFmZTGg4jSC/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-ali-259305240)
 [![Gmail](https://img.shields.io/badge/hammadali.cse123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hammadali.cse123@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+92_320_0141425-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923200141425)
