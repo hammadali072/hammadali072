@@ -3,7 +3,7 @@
 # Hammad Ali
 ### Front-End Developer
 
-*I build responsive, high-performance web experiences — from Figma concept to production.*
+*Frontend Developer specializing in React.js and modern JavaScript (ES6+), experienced in building responsive, high-performance web applications using Tailwind CSS and Bootstrap. Skilled in RESTful API integration and developing scalable, maintainable UI systems, with a strong focus on usability, performance and seamless cross-browser experience.*
 
 <br/>
 
@@ -38,13 +38,23 @@ Front-End Developer with 1.5+ years of hands-on experience building scalable, us
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 #### Backend & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+#### Programming Concepts
+![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=flat-square)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_%26_Algorithms-4B8BBE?style=flat-square)
+
+#### Front-End Concepts
+![REST API Integration](https://img.shields.io/badge/REST_API_Integration-2E8B57?style=flat-square)
+![UI/UX Principles](https://img.shields.io/badge/UI%2FUX_Principles-2E8B57?style=flat-square)
+![Front-End Architecture](https://img.shields.io/badge/Front_End_Architecture-2E8B57?style=flat-square)
 
 #### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -69,29 +79,31 @@ Front-End Developer with 1.5+ years of hands-on experience building scalable, us
 
 ## Featured Projects
 
-> Pinned repositories below — here's the context behind them.
-
-### RayNova Tech
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-- Modern agency website showcasing AI-powered services. Built a full-stack CMS with admin dashboard — blogs, team profiles, and project estimations managed dynamically without any frontend code changes.
-
-
-### SereNiva
+### Learnix
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Swiper JS](https://img.shields.io/badge/Swiper_JS-6332F6?style=flat-square&logo=swiper&logoColor=white)
+- An educational platform built to let learners browse, explore and enroll in courses through an intuitive, content-rich interface.
+- Offers both grid and list-based course browsing, detailed course pages and a blog section (with and without sidebar) to support content marketing and learner engagement.
+- Includes team/instructor profile pages and legal pages (privacy policy, terms & conditions), showing the platform was built with a complete user journey in mind, not just core screens.
 
-- Cloud-based spa & wellness management system — online booking, role-based dashboards, WhatsApp confirmations, and real-time payment tracking.
+### Attorneyester
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+- A multi-page website for a law firm, designed to showcase legal services and help potential clients find and connect with the right practice area.
+- Includes dedicated sections for practice areas, ongoing/past cases, attorney and team profiles, blogs, pricing and client testimonials to build credibility and trust.
+- Built with secure access control (password-protected pages) and a custom 404 page, reflecting attention to real-world production details beyond just the design.
 
-### myPSW Plus
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-- End-to-end UI/UX for a digital healthcare platform connecting Care Recipients with certified Personal Support Workers. Delivered 25+ screens covering onboarding, dashboards, booking, messaging, and reports.
+### Nutritionist
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Swiper JS](https://img.shields.io/badge/Swiper_JS-6332F6?style=flat-square&logo=swiper&logoColor=white)
+- A website for a nutrition/wellness service, built to help visitors understand offerings and connect with health professionals.
+- Covers the full client journey from learning about the process and team, to checking pricing plans, reading wellness-related blog content, and reaching out via a contact page.
+- Demonstrates ability to design user-centric interfaces tailored to a service-based, client-facing business.
 
 ---
 
