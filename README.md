@@ -3,7 +3,7 @@
 # Hammad Ali
 ### Front-End Developer
 
-*Frontend Developer specializing in React.js and modern JavaScript (ES6+), experienced in building responsive, high-performance web applications using Tailwind CSS and Bootstrap. Skilled in RESTful API integration and developing scalable, maintainable UI systems, with a strong focus on usability, performance and seamless cross-browser experience.*
+*Front-End Developer with 1.5+ years of professional experience building scalable, production-ready web interfaces. I bridge the gap between design and development — designing in Figma and implementing end-to-end without handoff friction. Experienced across e-commerce platforms, admin dashboards, CMS systems, and client-facing web applications.*
 
 <br/>
 
@@ -21,11 +21,22 @@
 
 ## About
 
-Front-End Developer with 1.5+ years of hands-on experience building scalable, user-focused interfaces using **React.js**, **TypeScript**, and **Tailwind CSS**. I care deeply about clean code, component architecture, and bridging the gap between design and development.
+Front-End Developer with 1.5+ years of hands-on experience building scalable, production-ready interfaces using React.js, Next.js, and Tailwind CSS. I bridge the gap between design and development — designing in Figma and implementing end-to-end without handoff friction.
 
 - Currently at **TechTide Co.** — building production-grade frontend systems
-- Currently doing a deep dive into **React** internals — hooks, custom hook patterns, advanced state management (Zustand / Context + useReducer), performance optimization and building real-world industry-standard projects.
+- Design + Code — I design in Figma and implement end-to-end, making me a one-person design-to-code pipeline
+- Deep diving into **MERN Stack** — MongoDB, Express.js, Node.js alongside my existing React expertise
+- Experienced in full deployment pipeline — cPanel, Hostinger, Netlify, domain & DNS configuration
 - Based in **Lahore, Pakistan** — open to remote opportunities
+
+---
+
+## Currently
+ 
+- 🔨 **Building:** Full-stack MERN project — real-world app, not a tutorial clone
+- 📚 **Learning:** MongoDB, Express.js, Node.js, advanced React patterns (Zustand, custom hooks, performance optimization)
+- 🎯 **Goal:** Full-Stack MERN Developer by Q3 2026
+- 💼 **Open to:** Remote Front-End roles and freelance collaborations
 
 ---
 
@@ -63,6 +74,9 @@ Front-End Developer with 1.5+ years of hands-on experience building scalable, us
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 
 ---
 
@@ -80,6 +94,8 @@ Front-End Developer with 1.5+ years of hands-on experience building scalable, us
 ## Featured Projects
 
 ### Learnix
+🔗 [Live Demo](https://your-learnix-react.netlify.app) | 📂 [Repository](https://github.com/hammadali072/Learnix)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -89,6 +105,8 @@ Front-End Developer with 1.5+ years of hands-on experience building scalable, us
 - Includes team/instructor profile pages and legal pages (privacy policy, terms & conditions), showing the platform was built with a complete user journey in mind, not just core screens.
 
 ### Attorneyester
+🔗 [Live Demo](https://attorney-pakistan.netlify.app/) | 📂 [Repository](https://github.com/hammadali072/Attorneyester)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -97,6 +115,8 @@ Front-End Developer with 1.5+ years of hands-on experience building scalable, us
 - Built with secure access control (password-protected pages) and a custom 404 page, reflecting attention to real-world production details beyond just the design.
 
 ### Nutritionist
+🔗 [Live Demo](https://nutritionist-react.netlify.app/) | 📂 [Repository](https://github.com/hammadali072/Nutritionist)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
