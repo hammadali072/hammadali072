@@ -8,7 +8,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://hammadali.tech/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yjDoZMRRIlOW8noBbG4gryMZpqGTelFS/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1I3YoYUQi8vY2ecHCNWrHo4o9g6bO1itj/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-ali-259305240)
 [![Gmail](https://img.shields.io/badge/hammadali.cse123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hammadali.cse123@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+92_320_0141425-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923200141425)
@@ -23,10 +23,10 @@
 
 Front-End Developer with 1.5+ years of hands-on experience building scalable, production-ready interfaces using React.js, Next.js, and Tailwind CSS. I bridge the gap between design and development — designing in Figma and implementing end-to-end without handoff friction.
 
-- Currently at **TechTide Co.** — building production-grade frontend systems
-- Design + Code — I design in Figma and implement end-to-end, making me a one-person design-to-code pipeline
-- Deep diving into **MERN Stack** — MongoDB, Express.js, Node.js alongside my existing React expertise
-- Experienced in full deployment pipeline — cPanel, Hostinger, Netlify, domain & DNS configuration
+- Currently at **TechTide Co.**: building production-grade frontend systems
+- Design + Code: I design in Figma and implement end-to-end, making me a one-person design-to-code pipeline
+- Deep diving into **MERN Stack**: MongoDB, Express.js, Node.js alongside my existing React expertise
+- Experienced in full deployment pipeline: cPanel, Hostinger, Netlify, domain & DNS configuration
 - Based in **Lahore, Pakistan** — open to remote opportunities
 
 ---
@@ -35,7 +35,7 @@ Front-End Developer with 1.5+ years of hands-on experience building scalable, pr
  
 - 🔨 **Building:** Full-stack MERN project — real-world app, not a tutorial clone
 - 📚 **Learning:** MongoDB, Express.js, Node.js, advanced React patterns (Zustand, custom hooks, performance optimization)
-- 🎯 **Goal:** Full-Stack MERN Developer by Q3 2026
+- 🎯 **Goal:** MERN Developer
 - 💼 **Open to:** Remote Front-End roles and freelance collaborations
 
 ---
